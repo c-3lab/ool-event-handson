@@ -58,7 +58,7 @@
 * "個人で使用"をクリック
 <img src="../images/NewAccount_3.png" width="1000">
 * "姓(省略可)"と"名"を入力し、"次へ"をクリック
-<img src="../images/NewAccount_4.png" width="1000">
+<img src="../images/AddAccount_10.png" width="1000">
 * "生年月日"と"性別"を入力し、"次へ"をクリック
 <img src="../images/NewAccount_5.png" width="1000">
 * "自分でGmailアドレスを作成"をクリック
