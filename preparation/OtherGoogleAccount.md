@@ -2,7 +2,7 @@
 
 ## 別のGoogleアカウント作成手順
 
-* GoogleのWebサイト(https://www.google.com/)へアクセス
+* GoogleのWebサイト(https://www.google.com/) へアクセス
 * 右上の"ログイン"をクリック
 <img src="../images/NewAccount_1.png" width="1000">
 * "ご自身のアカウント"をクリック
