@@ -7,7 +7,7 @@
 
 ### Googleアカウントをお持ちでない方
 
-![Googleアカウント作成手順](./NewGoogleAccount.md)を参考にGoogleアカウントの作成をお願いします
+[Googleアカウント作成手順](./NewGoogleAccount.md){:target="_blank"}を参考にGoogleアカウントの作成をお願いします
 
 ### すでにGoogleアカウントをお持ちの方
 
