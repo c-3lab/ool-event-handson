@@ -16,11 +16,11 @@
 <img src="../images/NewAccount_2.png" width="1000">
 * "個人で使用"をクリック
 <img src="../images/NewAccount_3.png" width="1000">
-* "姓(省略可)"と"名"を入力し、"次へ"をクリック
+* ご自身の"姓(省略可)"と"名"を入力し、"次へ"をクリック
 <img src="../images/NewAccount_4.png" width="1000">
 * "生年月日"と"性別"を入力し、"次へ"をクリック
 <img src="../images/NewAccount_5.png" width="1000">
-* "ユーザー名"を入力し、"次へ"をクリック
+* 任意の"ユーザー名"を入力し、"次へ"をクリック
 <img src="../images/NewAccount_6.png" width="1000">
   * 他と重複している場合は別のものにする必要があり
   * 後で変更できないため注意
@@ -59,13 +59,13 @@
 <img src="../images/NewAccount_2.png" width="1000">
 * "個人で使用"をクリック
 <img src="../images/NewAccount_3.png" width="1000">
-* "姓(省略可)"と"名"を入力し、"次へ"をクリック
+* ご自身の"姓(省略可)"と"名"を入力し、"次へ"をクリック
 <img src="../images/AddAccount_10.png" width="1000">
 * "生年月日"と"性別"を入力し、"次へ"をクリック
 <img src="../images/NewAccount_5.png" width="1000">
-* "自分でGmailアドレスを作成"をクリック
+* 自分でGmailアドレスを作成"をクリック
 <img src="../images/AddAccount_7.png" width="1000">
-* "ユーザー名(Gmailアドレス)"を入力し、"次へ"をクリック
+* 任意の"ユーザー名(Gmailアドレス)"を入力し、"次へ"をクリック
 <img src="../images/AddAccount_8.png" width="1000">
 * "パスワード"を入力し、"次へ"をクリック
 <img src="../images/NewAccount_7.png" width="1000">
