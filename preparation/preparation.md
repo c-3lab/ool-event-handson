@@ -23,7 +23,7 @@ Googleアカウントの作成をお願いします
 
 以下の手順を実施し、接続可能かご確認をお願いします
 
-* ChatGPT (https://openai.com/chatgpt/) へアクセス
+* ChatGPT Webサイト (https://openai.com/chatgpt/) へアクセス
 * "Start now"をクリック
 <img src="../images/ChatGPT_1.png" width="1000">
 * 以下の画面が表示されることを確認
