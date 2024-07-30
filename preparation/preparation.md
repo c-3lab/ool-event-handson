@@ -26,5 +26,6 @@ Googleアカウントの作成をお願いします
 * ChatGPT Webサイト (https://openai.com/chatgpt/) へアクセス
 * "Start now"をクリック
 <img src="../images/ChatGPT_1.png" width="1000">
+
 * 以下の画面が表示されることを確認
 <img src="../images/ChatGPT_2.png" width="1000">
