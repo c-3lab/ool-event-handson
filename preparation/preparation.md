@@ -23,13 +23,6 @@ Googleアカウントの作成をお願いします
 
 ## 2. 利用予定サービスへの接続確認
 
-### ChatGPT
+### ChatGPTへの接続確認とサインアップ
 
-以下の手順を実施し、接続可能かご確認をお願いします
-
-* ChatGPT Webサイト (https://openai.com/chatgpt/) へアクセス
-* "Start now"をクリック
-<img src="../images/ChatGPT_1.png" width="1000">
-
-* 以下の画面が表示されることを確認
-<img src="../images/ChatGPT_2.png" width="1000">
+[ChatGPTへの接続確認とサインアップ](./ChatGPT.md)を参考に接続確認とサインアップをお願いします
