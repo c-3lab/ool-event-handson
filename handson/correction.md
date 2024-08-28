@@ -2,6 +2,10 @@
 
 ## Step1 ChatGPTに添削を依頼してみる
 
+1. 以下のプロンプトをコピーする
+2. ChatGPTの入力欄に貼り付ける
+3. `Enter`を押す
+
 <details><summary>プロンプト</summary>
 
 ```
@@ -21,3 +25,6 @@
 ```
 
 </details>
+
+[次へ](./introduce.md)
+[戻る](./summary.md)
