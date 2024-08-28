@@ -74,3 +74,5 @@
 
 2. ChatGPTの入力欄に貼り付ける
 3. `Enter`を押す
+
+[戻る](./introduce.md)

@@ -30,3 +30,6 @@
 
 2. ChatGPTの入力欄に貼り付ける
 3. `Enter`を押す
+
+[次へ](./introduce.md)  
+[戻る](./correction.md)

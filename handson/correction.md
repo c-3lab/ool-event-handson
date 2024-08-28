@@ -40,5 +40,5 @@
 友達を誘うようなフランクな文体に修正してください
 ```
 
-[次へ](./introduce.md)  
+[次へ](./multi_language.md)  
 [戻る](./summary.md)
