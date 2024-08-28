@@ -2,10 +2,13 @@
 
 ## アジェンダ
 
-### はじめに
+### 事前準備の確認
 
-* 生成AI(ChatGPT)の基本的な使い方
-  * [ChatGPTへのサインアップ](../preparation/ChatGPT.md)
+* [事前準備](./preparation.md)
+
+### ChatGPTへアクセス
+
+[ChatGPTのチャットページ](https://chatgpt.com/)
 
 ### ハンズオン
 

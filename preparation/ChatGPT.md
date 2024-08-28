@@ -50,3 +50,5 @@
 
 * 以下のような画面が表示されれば、サインアップ完了です
 <img src="../images/ChatGPT_10.png" width="1000">
+
+[事前準備 トップへ戻る](./preparation.md)
