@@ -8,7 +8,11 @@
 
 ### ChatGPTへアクセス
 
-* [ChatGPTのチャットページ](https://chatgpt.com/)
+* ChatGPTへアクセスする
+
+  ```
+  https://openai.com/chatgpt/
+  ```
 
 ### ハンズオン
 
