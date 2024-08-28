@@ -26,5 +26,5 @@
 
 </details>
 
-[次へ](./introduce.md)
+[次へ](./introduce.md)  
 [戻る](./summary.md)
