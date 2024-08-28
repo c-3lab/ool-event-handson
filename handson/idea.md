@@ -75,4 +75,6 @@
 2. ChatGPTの入力欄に貼り付ける
 3. `Enter`を押す
 
-[戻る](./introduce.md)
+[戻る: 自己紹介文の作成](./introduce.md)
+
+[アジェンダへ](./agenda.md)

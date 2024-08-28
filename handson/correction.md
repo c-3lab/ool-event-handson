@@ -40,5 +40,7 @@
 友達を誘うようなフランクな文体に修正してください
 ```
 
-[次へ](./multi_language.md)  
-[戻る](./summary.md)
+[次へ: 多言語化](./multi_language.md)  
+[戻る: 文章要約の作成](./summary.md)
+
+[アジェンダへ](./agenda.md)

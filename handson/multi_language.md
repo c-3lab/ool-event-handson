@@ -31,5 +31,7 @@
 2. ChatGPTの入力欄に貼り付ける
 3. `Enter`を押す
 
-[次へ](./introduce.md)  
-[戻る](./correction.md)
+[次へ: 自己紹介文の作成](./introduce.md)  
+[戻る: 作成した文章の添削](./correction.md)
+
+[アジェンダへ](./agenda.md)
