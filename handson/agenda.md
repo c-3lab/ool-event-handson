@@ -7,12 +7,10 @@
 * 生成AI(ChatGPT)の基本的な使い方
   * [ChatGPTへのサインアップ](../preparation/ChatGPT.md)
 
-### ハンズオン(前半)
+### ハンズオン
 
 1. [文章要約の作成](./summary.md)
 2. [作成した文章の添削](./correction.md)
 3. [自己紹介文の作成](./introduce.md)
-
-### ハンズオン(後半)
-
-* なにか
+4. [多言語化](./multi_language.md)
+5. [アイデア出し](./idea.md)
