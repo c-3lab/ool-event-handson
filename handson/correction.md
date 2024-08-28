@@ -2,7 +2,7 @@
 
 ## Step1 ChatGPTに添削を依頼してみる
 
-<details><summary></summary>
+<details><summary>プロンプト</summary>
 
 ```
 以下の文章で『誤字・脱字』や『日本語表現がおかしい』ところを指摘・修正してください
@@ -20,4 +20,4 @@
 定員: 20名
 ```
 
-<details>
+</details>
