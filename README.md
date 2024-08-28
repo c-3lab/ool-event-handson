@@ -1,5 +1,5 @@
 # AI時代におけるオープンデータの価値を共に考える
 
-## 事前準備
+* [事前準備](./preparation/preparation.md)
 
-* [Googleアカウントの作成](./preparation/GoogleAccount.md)
+* [ハンズオン](./handson/agenda.md)
