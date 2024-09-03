@@ -20,6 +20,8 @@
 花鳥図,ｶﾁｮｳｶﾞ,Kachoga,絵画,美術工芸品,浦添市浦添市美術館
 ```
 
+</details>
+
 [次へ: 自己紹介文の作成](./introduce.md)  
 [戻る: オープンデータ作成補助](./opendata_creation.md)
 
