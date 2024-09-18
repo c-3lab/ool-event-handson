@@ -71,6 +71,9 @@ Code Interpreter は利用しないでください
 
 </details>
 
+『沖縄県公共施設一覧(令和4年11月現在)』より抜粋  
+https://data.bodik.jp/dataset/470007_shisetsu/resource/03cd45d0-a539-4c9a-be27-13e2676d2809
+
 [次へ: オープンデータ活用](./opendata_usecase.md)  
 [戻る: 文章要約の作成](./summary.md)
 
