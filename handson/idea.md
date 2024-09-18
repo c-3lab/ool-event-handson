@@ -72,6 +72,9 @@
 
   </details>
 
+  『沖縄県オープンデータカタログサイト』より  
+  https://data.bodik.jp/organization/470007
+
 2. ChatGPTの入力欄に貼り付ける
 3. `Enter`を押す
 4. 以下のようなプロンプトで色々な意見を出してもらう
