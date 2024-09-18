@@ -326,17 +326,28 @@ https://www5.cao.go.jp/keizai-shimon/kaigi/cabinet/honebuto/2024/2024_basicpolic
 ### Step2-3 他にも色々聞いてみましょう
 
 * 別の話題について聞いてみる
+
 ```
 ｟ご自身が興味関心のあるもの｠について触れている箇所について説明してください
 説明に使った文章も出力してください
 ```
 
 * クイズを作ってもらう
+
 ```
 理解度を確認するクイズを作って出題してください
 ```
 
 * 別の章や文章を入れて要約してもらう
+
+```
+以下の内容を要約してください
+｟ご自身の興味のある章や別の文章｠
+```
+※ 個人情報や機密性の高い情報は避けてください
+
+『経済財政運営と改革の基本方針2024について』  
+https://www5.cao.go.jp/keizai-shimon/kaigi/cabinet/honebuto/2024/2024_basicpolicies_ja.pdf
 
 [次へ: オープンデータ作成補助](opendata_creation.md)
 
