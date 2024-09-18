@@ -296,6 +296,9 @@
 
 </details>
 
+『経済財政運営と改革の基本方針2024について』 
+https://www5.cao.go.jp/keizai-shimon/kaigi/cabinet/honebuto/2024/2024_basicpolicies_ja.pdf
+
 ## Step2 骨太の方針の2章-3について聞いてみる
 
 ### Step2-1 骨太の方針の2章-3について質問してみる
